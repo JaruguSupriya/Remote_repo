@@ -12,3 +12,6 @@ print("The reveresed salaries:",L1[::-1])
 print("The minimum salary is:", min(L1))
 print("The maximum salary is:", max(L1))
 print("The total salaary is:", sum(L1))
+
+#Document
+# This is the place i have worked for req - 1 on 03 - 09 - 2024
